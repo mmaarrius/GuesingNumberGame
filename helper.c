@@ -1,4 +1,5 @@
-#include <stdlib.h>
+// Copyright (c) 2024, Popa Marius
+// Toate drepturile rezervate#include <stdlib.h>
 
 /*established the guesing number*/
 int thinkNumber() {
