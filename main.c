@@ -1,3 +1,5 @@
+// Copyright (c) 2024, Popa Marius
+// Toate drepturile rezervate
 #include <stdio.h>
 #include <math.h>
 #include <time.h>
